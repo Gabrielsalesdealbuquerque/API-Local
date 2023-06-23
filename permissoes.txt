@@ -1,0 +1,7 @@
+$usuarioPermitido = 'aa';
+$senhaPermitida = 'aa';
+
+$servername = "localhost";
+$username = "teste";
+$password = "teste123";
+$dbname = "teste-api";
